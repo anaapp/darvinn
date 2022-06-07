@@ -1,0 +1,15 @@
+body {font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgb(182, 243, 182)}
+h1 {font-size: 26pt;
+    color: maroon;
+    text-align: center;}
+h3 {width: 300px;
+    height: 40px;
+    color: rgb(7, 71, 7);
+    text-align: right;
+    border-left: 10px solid coral;}
+h4{color: coral;}
+header{background-image: url(slike/1439490128-plants.jpg); height: 100px;}
+.selekcija{margin: 40px; background-color: lightsalmon; 
+    color: black; border-radius: 10px; padding: 15px;}
+table, tr, td{border: 2px gray solid;}
